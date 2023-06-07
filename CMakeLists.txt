@@ -14,6 +14,6 @@ project(nnlib VERSION 0.0.1)
 
 
 add_executable(exe 
-main.cpp
+xor_gate.cpp
 nn.cpp
 )
